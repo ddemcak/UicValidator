@@ -1,2 +1,2 @@
-# UicValidator
-Tools for UIC wagon number validation.
+# UIC Validator
+Tool for UIC wagon number validation.
