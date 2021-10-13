@@ -4,7 +4,7 @@ The simple script is able to validate the 12 digits UIC number or when 11 digits
 it will calcaulate the 12th self-check digit.
 
 # Parameters
-Only one parameteri s required with provided UIC number.
+Only one parameter is required with provided UIC number.
 
 
 ## Wiki
