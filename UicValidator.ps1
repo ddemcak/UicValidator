@@ -1,7 +1,10 @@
 Write-Host '------------------------------' -ForegroundColor Yellow
-Write-Host '     UIC Validator v1.00      ' -ForegroundColor Yellow
+Write-Host '    UIC Validation script     ' -ForegroundColor Yellow
 Write-Host '------------------------------' -ForegroundColor Yellow
 
+# Calculates UIC self-check digit.
+# Parameters: UIC number WITHOUT self-check digit (11 digits)
+# Returns: Calculated 12th digit
 function Get-UicSelfCheckDigit
 {
     Param ([string] $UicNumber)   

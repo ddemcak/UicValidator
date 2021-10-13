@@ -1,5 +1,10 @@
 # UIC Validator
 Tool for UIC wagon number validation.
+The simple script is able to validate the 12 digits UIC number or when 11 digits UIC number is provided,
+it will calcaulate the 12th self-check digit.
+
+# Parameters
+Only one parameteri s required with provided UIC number.
 
 
 ## Wiki
